@@ -1,5 +1,5 @@
 <?php
-namespace plance\widget\errorsummary;
+namespace plance\widget;
 
 class ErrorSummary extends \yii\base\Widget
 {
